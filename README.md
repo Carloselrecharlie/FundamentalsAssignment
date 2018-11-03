@@ -8,4 +8,4 @@ The code within this project follows the Python version 3.6.4 In order to guaran
 Source | Link
 -------|-----
 Wikipedia | https://en.wikipedia.org/wiki/Anscombe%27s_quartet 
- | https://en.wikipedia.org/wiki/Frank_Anscombe
+Wikipedia| https://en.wikipedia.org/wiki/Frank_Anscombe
